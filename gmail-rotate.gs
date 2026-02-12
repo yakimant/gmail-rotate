@@ -1,4 +1,5 @@
 var senders = [
+  'some@email.com'
   ];
 
 var keepDays = 30;
