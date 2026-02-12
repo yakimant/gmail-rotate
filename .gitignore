@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.*
+.clasp.json
+.clasprc.json
+.pnpm-debug.log
+*.log
+coverage
+dist
+.DS_Store
+.direnv
